@@ -2,7 +2,7 @@
 
 Statischer Demo-Build der NAVORA CIP (Clinical Intelligence Platform) Oberfläche.
 
-**Live:** https://navora-cip-mockup.vercel.app  
+**Live:** https://navora-cip-en.vercel.app  
 _Öffentlich per Link erreichbar (Vercel Authentication deaktiviert); per `noindex` + `robots.txt` von Suchmaschinen ausgeschlossen._
 
 ## Was das ist
