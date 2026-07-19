@@ -3,7 +3,7 @@
 Statischer Demo-Build der NAVORA CIP (Clinical Intelligence Platform) Oberfläche.
 
 **Live:** https://navora-cip-mockup.vercel.app  
-_Zugriff nur für eingeloggte Mitglieder des Vercel-Teams „Nilab's projects" (Vercel Authentication aktiv)._
+_Öffentlich per Link erreichbar (Vercel Authentication deaktiviert); per `noindex` + `robots.txt` von Suchmaschinen ausgeschlossen._
 
 ## Was das ist
 Interaktives UI-Mockup zur Veranschaulichung der CIP-Ansichten (Case Command Center, Lab Intelligence, Multisystem Map, Timeline u. a.). Alle dargestellten Patientendaten sind **synthetisch** und dienen ausschließlich der Demonstration. Kein Diagnosesystem und keine medizinische Anwendung — „for clinical review" only.
